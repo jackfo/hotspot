@@ -1,0 +1,22 @@
+README:
+  This file should be located at the top of the hotspot Mercurial repository.
+
+  See http://openjdk.java.net/ for more information about the OpenJDK.
+
+  See ../README-builds.html for complete details on build machine requirements.
+
+Simple Build Instructions:
+
+    cd make && gnumake
+     
+  The files that will be imported into the jdk build will be in the "build"
+  directory.
+
+  
+  研究hotspot源码,未研究完毕,现在准备找工作,后续有时间精力继续研究,带自己研究文档
+
+  学习资料:
+
+  揭秘Java虚拟机 封亚飞著 电子工业出版社
+  深入理解 Java 虚拟机 周志明 著 机械工业出版社  HotSpot实战 陈涛著 人民邮电出版社
+  深入理解计算机系统  机械工业出版社
